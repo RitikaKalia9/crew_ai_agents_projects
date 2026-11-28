@@ -58,7 +58,7 @@ Model availability on Groq changes. If a model ID fails, list current ones with 
 
 ## Safety notes
 
-- Outreach emails are **drafts only**. Nothing is sent automatically; keep it that way for classroom use.
+- Outreach emails are **drafts only**. Nothing is sent automatically; keep it that way for normal learning use.
 - Never store passwords, API keys, payment details or sensitive personal data in agent memory.
 - Example companies and people (CampusHelp, Northstar Learning, Aarav Mehta) are fictional. Exercise 3 in Notebook 3 uses a real public organisation purely for search comparison.
 - Outputs from agents without search tools are unverified. Check facts before using them.
